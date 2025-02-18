@@ -35,12 +35,7 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: true
-    logo:
-      path: assets/logo-polifonia.svg
-      link: /
-      width: 40
-      height: 20
+    displayLogo: false
 
   footer:
     displayCopyright: false
