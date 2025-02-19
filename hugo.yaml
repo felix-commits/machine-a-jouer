@@ -46,5 +46,4 @@ params:
     displayPoweredBy: false
 
   editURL:
-    enable: true
-    base: "https://github.com/felix-commits/machine-a-jouer-docs/edit/main/content"
+    enable: false
