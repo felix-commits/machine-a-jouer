@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "docs/folder/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,11 +182,12 @@
   },
   "active": "ced04092a4e9e184",
   "lastOpenFiles": [
-    "hugo.yaml",
-    "docs/_index.md",
     "docs/folder/leaf.md",
     "docs/folder/_index.md",
+    "docs/_index.md",
+    "docs/first-page.md",
     "_index.md",
+    "hugo.yaml",
     "about.md",
     "Bienvenue.md"
   ]
