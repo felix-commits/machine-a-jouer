@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "82eb264607c82ff3",
+        "id": "50289190eb7e00d7",
         "type": "tabs",
         "children": [
           {
-            "id": "8697533966a5593a",
+            "id": "ced04092a4e9e184",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "hugo.yaml",
-                "bFile": "hugo.yaml",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: hugo.yaml"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -166,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8697533966a5593a",
+  "active": "ced04092a4e9e184",
   "lastOpenFiles": [
     "hugo.yaml",
     "docs/_index.md",

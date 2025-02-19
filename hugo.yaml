@@ -35,10 +35,10 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: true
+    displayLogo: false
     logo:
       path: assets/logo-polifonia.svg
-      link: /
+      link: /machine-a-jouer-docs
       width: 40
       height: 20
 
