@@ -1,14 +1,6 @@
 # Hugo configuration file
 title: Machine à jouer
-
-defaultContentLanguage: fr
-languages:
-  en:
-    languageName: English
-    weight: 1
-  fr:
-    languageName: Français
-    weight: 2
+baseURL: https://sonore.pages.dev
 
 # import hextra as module
 module:

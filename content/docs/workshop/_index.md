@@ -1,8 +1,6 @@
 ---
 title: Présentation du workshop
 type: docs
-prev: docs/
-next: docs/folder/leaf
 sidebar:
   open: true
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/workshop/_index.md",
+                "file": "docs/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,11 +181,11 @@
   },
   "active": "2dc7c9be75df74a0",
   "lastOpenFiles": [
-    "docs/_index.md",
+    "_index.md",
     "docs/workshop/_index.md",
+    "docs/_index.md",
     "docs/Workshop Nanterre/leaf.md",
     "docs/first-page.md",
-    "_index.md",
     "hugo.yaml",
     "about.md",
     "Bienvenue.md"

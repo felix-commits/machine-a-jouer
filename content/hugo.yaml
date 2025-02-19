@@ -1,21 +1,14 @@
 # Hugo configuration file
 title: Machine à jouer
-
-# import hextra as module
 module:
   imports:
   - path: github.com/imfing/hextra
-
 markup:
-  # allow raw html
   goldmark:
     renderer:
       unsafe: true
-
-  # enable hextra syntax highlight
   highlight:
     noClasses: false
-
 menu:
   main:
     - name: Docs
@@ -31,16 +24,10 @@ menu:
       weight: 4
       params:
         type: search
-
 params:
   navbar:
     displayTitle: true
     displayLogo: false
-
   footer:
     displayCopyright: false
     displayPoweredBy: false
-
-  editURL:
-    enable: true
-    base: "https://github.com/felix-commits/machine-a-jouer-docs/edit/main/content"
