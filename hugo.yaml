@@ -42,6 +42,7 @@ menu:
         type: search
 
 params:
+  defaultContentLanguage: fr
   navbar:
     displayTitle: true
     displayLogo: false
