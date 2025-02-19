@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Machine à jouer
+title: Workshop théâtre immersif sonore
 baseURL: https://sonore.pages.dev
 
 # import hextra as module
@@ -19,7 +19,7 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Guide pratique
       pageRef: /docs
       weight: 1
     - name: Contact ↗

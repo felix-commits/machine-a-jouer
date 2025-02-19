@@ -6,5 +6,5 @@ toc: false
 ## Table des matières
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="docs" title="Guide pratique" icon="book-open" >}}
 {{< /cards >}}
