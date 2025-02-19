@@ -1,9 +1,7 @@
 ---
-title: Mise en place
+title: Penser le sonore
 type: docs
 ---
-
-Temps de récoltage de sons, de production de son, de mixage de son.
 ## Les quatre modes d'écoute
 
 P. Schaeffer [^1] distingue quatre modes d’écoute aux croisements de deux dualismes universellement présents dans toute activité de perception.

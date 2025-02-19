@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "275efa8ee3f4a3d4",
@@ -167,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,9 +181,21 @@
   },
   "active": "2dc7c9be75df74a0",
   "lastOpenFiles": [
+    "docs/workshop/sonographie.md",
+    "docs/workshop/planning.md",
+    "docs/workshop/_index.md",
+    "docs/labo/Enjeux.md",
+    "docs/labo/carnets/_index.md",
+    "docs/labo/carnets/mercredi.md",
+    "docs/labo/carnets/mardi.md",
+    "docs/labo/carnets/lundi.md",
+    "docs/labo/_index.md",
+    "docs/labo/carnets",
+    "docs/labo/Sans titre.md",
     "docs/_index.md",
     "docs/workshop/start.md",
-    "docs/workshop/_index.md",
+    "docs/labo/Sans titre.canvas",
+    "docs/labo",
     "docs/workshop/index.md",
     "docs/workshop/test.md",
     "docs/workshop/_index copy.md",
